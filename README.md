@@ -1,4 +1,5 @@
 # 여기는 한글 프로젝트 설명 페이지
+한국어 | [English](https://github.com/gohaseon/test1/edit/master/README-EN.md)
 
 ## 두번째 제목
 ### 세번째 제목
